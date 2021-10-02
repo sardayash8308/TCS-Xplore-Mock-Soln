@@ -1,5 +1,5 @@
 
-# TCS Xplore Assessment Solutions 2020
+# TCS Xplore Assessment Solutions for Practice and Learn
 
 This repository contains solutions for practice purpose of the programming questions asked in the TCS Xplore Assessments.
 
